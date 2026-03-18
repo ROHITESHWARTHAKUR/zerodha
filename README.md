@@ -1,12 +1,56 @@
-# React + Vite
+# 🚀 Zerodha Clone (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Zerodha-inspired trading platform UI built using React. This project focuses on clean design, smooth user experience, and scalable component structure.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Modern UI with smooth animations
+* Fully responsive design (mobile, tablet, desktop)
+* Clean and reusable component architecture
+* Interactive pricing section
+* Product showcase section
+* Support portal with FAQ system
+* Lottie animations for better user engagement
+* Smooth page transitions and visual effects
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* Tailwind CSS
+* React Router
+* Lottie Animations
+* Vite
+
+## 📂 Folder Structure
+
+* `src/components` → reusable UI components
+* `src/pages` → main pages
+* `src/assets` → images, animations, static files
+* `src/routes` → routing setup
+
+## 🚀 Getting Started
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/ROHITESHWARTHAKUR/zerodha.git
+cd zerodha
+npm install
+npm run dev
+```
+
+## 🌐 Live Demo
+
+https://zerodha-sable.vercel.app
+
+## 📌 Purpose
+
+This project is built for learning and improving frontend development skills, especially in React and UI design.
+
+## 🙌 Acknowledgement
+
+Special thanks to my mentors Sarthak Sharma and Devendra Dhote for their guidance and support.
+
+## 👨‍💻 Author
+
+Rohiteshwar Thakur
